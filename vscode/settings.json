@@ -1,0 +1,74 @@
+{
+    "workbench.colorTheme": "Tomorrow Night Blue",
+    "workbench.iconTheme": "vscode-icons",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.jediEnabled": false,
+    "python.languageServer": "Default",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "vsicons.dontShowNewVersionMessage": true,
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "bracketPairColorizer.depreciation-notice": false,
+    "tabnine.experimentalAutoImports": true,
+    "kite.showWelcomeNotificationOnStartup": false,
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "gitlens.advanced.messages": {
+        "suppressGitMissingWarning": true
+    },
+    "editor.wordWrap": "on",
+    "code-runner.runInTerminal": true,
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "code-runner.defaultLanguage": "python",
+    "code-runner.saveFileBeforeRun": true,
+    "liveSever.settings.CustomBrowser": "chrome",
+    "terminal.integrated.detectLocale": "off",
+    "workbench.editor.enablePreview": false,
+    "emmet.preferences": {
+    
+    },
+    "json.schemas": [
+    
+    
+    ],
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Gitbash": {
+            "path": "C:\\Git\\bin\\bash.exe"
+        }
+    },
+    "sync.gist": "0bb2c247b0d81dfd443fd246c228506d",
+    "git-autoconfig.configList": [
+    
+        {
+            "user.email": "dvelazqu13@gmail.com",
+            "user.name": "domingo"
+        }
+    ],
+    "window.zoomLevel": 1,
+    "git-autoconfig.ignoreRootList": [
+        "E:/Curso Git/Proyecto-web-empresa-C"
+    ]
+}
